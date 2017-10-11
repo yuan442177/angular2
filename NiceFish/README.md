@@ -1,4 +1,6 @@
 # 原作者 大漠穷秋 https://github.com/damoqiongqiu 以此为学习参考
+## 以下为原文介绍
+---
 <img src="src/assets/imgs/nicefish-jigsaw.png" width="240" alt="nicefish-jigsaw"/>
 
 # NiceFish（美人鱼）
